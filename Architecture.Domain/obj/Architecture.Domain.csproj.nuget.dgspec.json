@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\Microservices\\Architecture\\Architecture.Domain\\Architecture.Domain.csproj": {}
+    "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Domain\\Architecture.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\Microservices\\Architecture\\Architecture.Domain\\Architecture.Domain.csproj": {
+    "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Domain\\Architecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Microservices\\Architecture\\Architecture.Domain\\Architecture.Domain.csproj",
+        "projectUniqueName": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Domain\\Architecture.Domain.csproj",
         "projectName": "Architecture.Domain",
-        "projectPath": "D:\\Learning\\Microservices\\Architecture\\Architecture.Domain\\Architecture.Domain.csproj",
+        "projectPath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Domain\\Architecture.Domain.csproj",
         "packagesPath": "C:\\Users\\murta\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Microservices\\Architecture\\Architecture.Domain\\obj\\",
+        "outputPath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\murta\\AppData\\Roaming\\NuGet\\NuGet.Config",

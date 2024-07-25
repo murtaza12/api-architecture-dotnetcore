@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bFzgGbji3y+SX46n3reY8eaz5OrKnwRqxoPLUNCxUsjAzOVEeH3mBoav1T1CH6oycza0LSVKjRSvQEcyKsfyNw==",
+  "dgSpecHash": "gsTIvNX19gv1HUAXNl0zQKLjDq/O8yW+Jjjv6cBQDo1ysg9OuZ3pUOZFriFT/pnrqyUA3Z78tHJZoCI1qfQTIw==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\Microservices\\Architecture\\Architecture.Infrastructure\\Architecture.Infrastructure.csproj",
+  "projectFilePath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Infrastructure\\Architecture.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

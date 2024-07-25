@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\Microservices\\Architecture\\Architecture.API\\Architecture.API.csproj",
+      "projectUniqueName": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.API\\Architecture.API.csproj",
       "projectName": "Architecture.API",
-      "projectPath": "D:\\Learning\\Microservices\\Architecture\\Architecture.API\\Architecture.API.csproj",
+      "projectPath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.API\\Architecture.API.csproj",
       "packagesPath": "C:\\Users\\murta\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\Microservices\\Architecture\\Architecture.API\\obj\\",
+      "outputPath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murta\\AppData\\Roaming\\NuGet\\NuGet.Config",

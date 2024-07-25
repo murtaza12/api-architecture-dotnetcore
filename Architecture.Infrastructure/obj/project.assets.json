@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\Microservices\\Architecture\\Architecture.Infrastructure\\Architecture.Infrastructure.csproj",
+      "projectUniqueName": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Infrastructure\\Architecture.Infrastructure.csproj",
       "projectName": "Architecture.Infrastructure",
-      "projectPath": "D:\\Learning\\Microservices\\Architecture\\Architecture.Infrastructure\\Architecture.Infrastructure.csproj",
+      "projectPath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Infrastructure\\Architecture.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\murta\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\Microservices\\Architecture\\Architecture.Infrastructure\\obj\\",
+      "outputPath": "D:\\github\\api-architecture\\api-architecture-dotnetcore\\Architecture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murta\\AppData\\Roaming\\NuGet\\NuGet.Config",
